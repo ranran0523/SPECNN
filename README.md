@@ -15,3 +15,6 @@ By running the 3 ipynb file to perform group convolution replaced CNNs training.
 
 # HE-inference Test
 To use a multi-thread simulation environment on testing inference latency, we fork the code from HEAR(https://github.com/K-miran/HEAR).
+
+# Acknowledgement
+Code forked and modified from https://github.com/wanglouis49/pytorch-weights_pruning
